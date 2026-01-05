@@ -156,7 +156,7 @@ The objective of this project is to analyze historical stock price behavior iden
 
 ├── screenshots/
 
-    └── ![market overview](market_overview.png)
+    └── market_overview.png
 
     └── monthly_performance_analysis.png
 
