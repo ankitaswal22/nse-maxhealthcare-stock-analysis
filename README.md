@@ -2,16 +2,15 @@
 Data analyst project analyzing NSE Max Healthcare stock trends, volume, and volatility using Excel, PostgreSQL Views &amp; Power BI dashboard
 
 # Project Objective
-1-The objective of this project is to:
-2-Analyze historical stock price behavior
-3-Identify growth trends, volatility patterns, and high-risk trading days
-4-Build a business-ready Power BI dashboard
-5-Demonstrate entry-level data analyst skills used in real-world scenarios 
+The objective of this project is to analyze historical stock price behavior identify growth trends, volatility patterns, and high-risk trading days . Build a business-ready Power BI dashboard Demonstrate entry-level data analyst skills used in real-world scenarios 
 
 # Dataset Overview
 1-Company: Max Healthcare Institute Ltd
+
 2-Stock Exchange: NSE (India)
+
 3-Time Period: 2023 – 2026
+
 4-Data Frequency: Daily trading data
 
 # Key Columns
