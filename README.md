@@ -13,7 +13,7 @@ nse-maxhealthcare-stock-analysis/
    
 ├── powerbi/
 
--[MaxHealthcare_Dashboard.pbix](powerbi/MaxHealthcare_Dashboard.pbix.pbix)
+-[MaxHealthcare_Dashboard.pbix](powerbi/MaxHealthcare_Dashboard.pbix)
 
 ├── sql/
 
