@@ -148,33 +148,33 @@ The objective of this project is to analyze historical stock price behavior iden
 ## Project Structure
 ├── Excel/
 
-│   └── max_cleaned2.csv
+   └── max_cleaned2.csv
 
 ├── powerbi/
 
-│   └── MaxHealthcare_Stock_Analysis.pbix
+   └── MaxHealthcare_Stock_Analysis.pbix
 
 ├── screenshots/
 
-│   └── market_overview.png
+   └── market_overview.png
 
-|   └── monthly_performance_analysis.png
+   └── monthly_performance_analysis.png
 
-|    └── risk_and_volatility_analysis.png
+    └── risk_and_volatility_analysis.png
 
 ├── sql/
 
-│    └──analysis_queries.sql
+    └──analysis_queries.sql
 
-|    └──data_cleaning.sql
+    └──data_cleaning.sql
 
-|    └──features_engineering.sql
+    └──features_engineering.sql
 
-|    └──powerbi_views.sql
+    └──powerbi_views.sql
 
-|    └──tablecreation.sql
+    └──tablecreation.sql
 
-└── README.md
+├── README.md
 
 
 
