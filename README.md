@@ -146,9 +146,9 @@ The objective of this project is to analyze historical stock price behavior iden
 6-Risk & Volatility Analysis
 
 ## Project Structure
-├── Excel/
+├── excel/
 
-     └── max_cleaned2.csv
+     └── ./excel/max_cleaned2.csv
 
 ├── powerbi/
 
