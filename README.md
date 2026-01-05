@@ -6,9 +6,13 @@ The objective of this project is to analyze historical stock price behavior iden
 
 # Project Structure
 nse-maxhealthcare-stock-analysis/
+
 |
+
 ├── excel/
+
 |
+
 |    └── max_cleaned2.csv
 |
 ├── powerbi/
