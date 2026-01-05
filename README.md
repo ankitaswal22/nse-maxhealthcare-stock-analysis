@@ -8,15 +8,15 @@ The objective of this project is to analyze historical stock price behavior iden
 - ![Market_overview.PNG](screenshots/Market_overview.PNG)
 
 # Business Questions Answered
-- How has Max Healthcare’s stock price evolved over time?
+1- How has Max Healthcare’s stock price evolved over time?
 
-- Which months show the highest volatility and risk?
+2- Which months show the highest volatility and risk?
 
-- Are high trading volumes linked to price breakouts?
+3- Are high trading volumes linked to price breakouts?
 
-- When is the stock relatively safer for entry?
+4- When is the stock relatively safer for entry?
 
-- How does risk compare with returns across months?
+5- How does risk compare with returns across months?
 
 # Project Structure
 nse-maxhealthcare-stock-analysis/
@@ -105,13 +105,13 @@ nse-maxhealthcare-stock-analysis/
 6-Derived business and investment insights
 
  # KPI Logic
- - Daily Return = (Close Price − Open Price) / Open Price
+ 1- Daily Return = (Close Price − Open Price) / Open Price
  
-- Intraday Volatility = (High − Low) / Open Price
+ 2- Intraday Volatility = (High − Low) / Open Price
 
-- Monthly Avg Close Price = AVG(Close Price)
+ 3- Monthly Avg Close Price = AVG(Close Price)
 
-- High Volatility Days = Volatility > defined threshold
+ 4- High Volatility Days = Volatility > defined threshold
 
 # Key Performance Indicators (KPIs)
 
@@ -181,13 +181,13 @@ nse-maxhealthcare-stock-analysis/
 -2023-04-05 |	₹428.00 |	₹419.15 |	4.39                |	-3.13%
 
 # Assumptions & Limitations
-- Analysis is based on historical stock price data only
+1- Analysis is based on historical stock price data only
 
-- No macroeconomic or sector indicators included
+2- No macroeconomic or sector indicators included
 
-- Volatility thresholds are user-defined
+3- Volatility thresholds are user-defined
 
-- Past performance does not guarantee future returns
+4- Past performance does not guarantee future returns
 
 # Business Insights
 1-Max Healthcare shows strong long-term growth potential
