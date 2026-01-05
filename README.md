@@ -15,30 +15,47 @@ The objective of this project is to analyze historical stock price behavior iden
 
 # Key Columns
 1-Trade Date
+
 2-Open Price
+
 3-Close Price
+
 4-Volume
+
 5-Turnover
+
 6-Daily Return
+
 7-Intraday Volatility
 
 # Tools & Technologies
 1-Excel | Data cleaning & validation
+
 2-PostgreSQL |	Data storage & SQL analysis
+
 3-SQL Views |	Analytical data modeling
+
 4-Power BI | Dashboard & visualization
+
 5-DAX | KPI creation & time intelligence
 
 # End-to-End Workflow
 1-Cleaned raw stock market data using Excel
+
 2-Imported cleaned data into PostgreSQL
+
 3-Created SQL views for analysis-ready datasets
+
 4-Connected Power BI to PostgreSQL
+
 5-Built interactive dashboards
+
 6-Derived business and investment insights
 
 # Key Performance Indicators (KPIs)
+
 # KPI	Value      |  From Dashboard  | Interpretation
+
 1-Avg Close Price  | ₹1.06K           | Slightly below target (1.08K)
 2-Total Volume	   | 2.14M 	          | Strong market participation
 3-Avg Daily Return | 83.50%	          | High short-term return potential
