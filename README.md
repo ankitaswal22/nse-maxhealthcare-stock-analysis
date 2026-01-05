@@ -43,9 +43,6 @@ nse-maxhealthcare-stock-analysis/
 
 ├── screenshots/
 
-# Market Overview
-- ![Market_overview.PNG](screenshots/Market_overview.PNG)
-
  # Monthly Performance Analysis
 
 - ![Monthly_performance_analysis.PNG](screenshots/Monthly_performance_analysis.PNG)
