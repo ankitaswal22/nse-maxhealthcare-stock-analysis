@@ -6,25 +6,45 @@ The objective of this project is to analyze historical stock price behavior iden
 
 # Project Structure
 nse-maxhealthcare-stock-analysis/
+
 │
+
 ├── excel/
+
 │   └── MAX_CLEANED2.csv
+
 │
+
 ├── powerbi/
+
 │   └── MaxHealthcare_Dashboard.pbix
+
 │
+
 ├── sql/
+
 │   ├── data_cleaning.sql
+
 │   ├── analysis_queries.sql
+
 │   ├── features_engineering.sql
+
 |   ├── tablecreation.sql
+
 │   └── powerbi_views.sql
+
 |
+
 ├── screenshots/
+
 │   ├── Market_overview.png
+
 │   ├── Monthly_performance_analysis.png
+
 │   └── Risk_and_Volatility_Analysis.png
+
 │
+
 ├── README.md
 
 
