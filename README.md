@@ -1,4 +1,4 @@
-# nse-maxhealthcare-stock-analysis
+ # nse-maxhealthcare-stock-analysis
 Data analyst project analyzing NSE Max Healthcare stock trends, volume, and volatility using Excel, PostgreSQL Views &amp; Power BI dashboard 
 
 # Project Objective 
@@ -9,23 +9,23 @@ nse-maxhealthcare-stock-analysis/
 
 ├── excel/
    
-   └── MAX_CLEANED2.csv
+    └── MAX_CLEANED2.csv
    
 ├── powerbi/
 
-   └── MaxHealthcare_Dashboard.pbix
+    └── MaxHealthcare_Dashboard.pbix
 
 ├── sql/
 
-   ├── data_cleaning.sql
+    ├── data_cleaning.sql
 
-   ├── analysis_queries.sql
+    ├── analysis_queries.sql
  
-   ├── features_engineering.sql
+    ├── features_engineering.sql
  
-   ├── tablecreation.sql
+    ├── tablecreation.sql
    
-   └── powerbi_views.sql
+    └── powerbi_views.sql
 
 ├── screenshots/
 
