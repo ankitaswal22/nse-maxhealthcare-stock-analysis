@@ -19,7 +19,7 @@ nse-maxhealthcare-stock-analysis/
 
     ├── data_cleaning.sql
 
-    ├── analysis_queries.sql
+    ├── -[analysis_queries.sql](sql/analysis_queries.sql)
  
     ├── features_engineering.sql
  
