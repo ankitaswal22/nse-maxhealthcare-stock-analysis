@@ -29,11 +29,11 @@ nse-maxhealthcare-stock-analysis/
 
 ├── screenshots/
 
--[Market_overview.png](screenshots/Market_overview.png)
+-[Market_overview.PNG](screenshots/Market_overview.PNG)
 
--[Monthly_performance_analysis.png](screenshots/Monthly_performance_analysis.png)
+-[Monthly_performance_analysis.PNG](screenshots/Monthly_performance_analysis.PNG)
 
--[Risk_and_Volatility_Analysis.png](screenshots/Risk_and_Volatility_Analysis.png)
+-[Risk_and_Volatility_Analysis.PNG](screenshots/Risk_and_Volatility_Analysis.PNG)
     
 ├── README.md
 
