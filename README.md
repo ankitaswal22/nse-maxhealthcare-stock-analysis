@@ -28,6 +28,10 @@ The objective of this project is to analyze historical stock price behavior iden
 
 7-Intraday Volatility
 
+8-Year
+
+9- Month_Num
+
 # Tools & Technologies
 1-Excel | Data cleaning & validation
 
@@ -146,31 +150,7 @@ The objective of this project is to analyze historical stock price behavior iden
 Ankit Aswal
 
 Entry-Level Data Analyst
+
 Skills-SQL | Power BI | Excel | PostgreSQL
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Year
-
-Month Number
