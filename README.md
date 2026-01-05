@@ -4,6 +4,20 @@ Data analyst project analyzing NSE Max Healthcare stock trends, volume, and vola
 # Project Objective 
 The objective of this project is to analyze historical stock price behavior identify growth trends, volatility patterns, and high-risk trading days . Build a business-ready Power BI dashboard Demonstrate entry-level data analyst skills used in real-world scenarios 
 
+# Market Overview
+- ![Market_overview.PNG](screenshots/Market_overview.PNG)
+
+# Business Questions Answered
+- How has Max Healthcare’s stock price evolved over time?
+
+- Which months show the highest volatility and risk?
+
+- Are high trading volumes linked to price breakouts?
+
+- When is the stock relatively safer for entry?
+
+- How does risk compare with returns across months?
+
 # Project Structure
 nse-maxhealthcare-stock-analysis/
 
@@ -93,6 +107,15 @@ nse-maxhealthcare-stock-analysis/
 
 6-Derived business and investment insights
 
+ # KPI Logic
+ - Daily Return = (Close Price − Open Price) / Open Price
+ 
+- Intraday Volatility = (High − Low) / Open Price
+
+- Monthly Avg Close Price = AVG(Close Price)
+
+- High Volatility Days = Volatility > defined threshold
+
 # Key Performance Indicators (KPIs)
 
 # KPI	Value      |  From Dashboard  | Interpretation
@@ -159,6 +182,15 @@ nse-maxhealthcare-stock-analysis/
 -Date       |	Open    |	Close   |	Intraday Volatility |	Daily Return
 
 -2023-04-05 |	₹428.00 |	₹419.15 |	4.39                |	-3.13%
+
+# Assumptions & Limitations
+- Analysis is based on historical stock price data only
+
+- No macroeconomic or sector indicators included
+
+- Volatility thresholds are user-defined
+
+- Past performance does not guarantee future returns
 
 # Business Insights
 1-Max Healthcare shows strong long-term growth potential
