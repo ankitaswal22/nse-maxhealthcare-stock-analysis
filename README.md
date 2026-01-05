@@ -4,43 +4,28 @@ Data analyst project analyzing NSE Max Healthcare stock trends, volume, and vola
 # Project Objective 
 The objective of this project is to analyze historical stock price behavior identify growth trends, volatility patterns, and high-risk trading days . Build a business-ready Power BI dashboard Demonstrate entry-level data analyst skills used in real-world scenarios 
 
-# Project Structure
-nse-maxhealthcare-stock-analysis/
-
-|
-
-├── excel/
-
-|
-
-|    └── max_cleaned2.csv
-|
+# nse-maxhealthcare-stock-analysis/
+│
+├── Excel/
+│   └── MAX_CLEANED2.csv
+│
 ├── powerbi/
-|
-|   └── MaxHealthcare_Dashboard.pbix
+│   └── MaxHealthcare_Dashboard.pbix
+│
+├── sql/
+│   ├── data_cleaning.sql
+│   ├── analysis_queries.sql
+│   ├── features_engineering.sql
+|    ├── tablecreation.sql
+│   └── powerbi_views.sql
 |
 ├── screenshots/
-|
-|    └── market_overview.png
-|
-|    └── monthly_performance_analysis.png
-|
-|    └── risk_and_volatility_analysis.png
-|
-├── sql/
-|
-|    └──analysis_queries.sql
-|
-|
-|    └──data_cleaning.sql
-|
-|    └──features_engineering.sql
-|
-|    └──powerbi_views.sql
-|
-|    └──tablecreation.sql
-|
-└── README.md
+│   ├── Market_overview.png
+│   ├── Monthly_performance_analysis.png
+│   └── Risk_and_Volatility_Analysis.png
+│
+├── README.md
+
 
 # Dataset Overview
 1-Company: Max Healthcare Institute Ltd
