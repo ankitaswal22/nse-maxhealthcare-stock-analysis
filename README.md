@@ -148,17 +148,17 @@ The objective of this project is to analyze historical stock price behavior iden
 ## Project Structure
 ├── Excel/
 
-   └── max_cleaned2.csv
+     └── max_cleaned2.csv
 
 ├── powerbi/
 
-   └── MaxHealthcare_Stock_Analysis.pbix
+    └── MaxHealthcare_Stock_Analysis.pbix
 
 ├── screenshots/
 
-   └── market_overview.png
+    └── market_overview.png
 
-   └── monthly_performance_analysis.png
+    └── monthly_performance_analysis.png
 
     └── risk_and_volatility_analysis.png
 
