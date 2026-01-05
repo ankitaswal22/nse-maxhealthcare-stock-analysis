@@ -144,11 +144,8 @@ The objective of this project is to analyze historical stock price behavior iden
 
 # Author
 Ankit Aswal
-
 Entry-Level Data Analyst
-
 Skills:
-
 SQL | Power BI | Excel | PostgreSQL
 
 
