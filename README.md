@@ -16,7 +16,7 @@ The objective of this project is to analyze historical stock price behavior iden
 │   ├── data_cleaning.sql
 │   ├── analysis_queries.sql
 │   ├── features_engineering.sql
-|    ├── tablecreation.sql
+|   ├── tablecreation.sql
 │   └── powerbi_views.sql
 |
 ├── screenshots/
