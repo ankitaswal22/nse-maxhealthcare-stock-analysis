@@ -56,70 +56,99 @@ The objective of this project is to analyze historical stock price behavior iden
 
 # KPI	Value      |  From Dashboard  | Interpretation
 
-1-Avg Close Price  | ₹1.06K           | Slightly below target (1.08K)
+1-Avg Close Price  | ₹1.06K           | Slightly below target (₹1.08K)
+
 2-Total Volume	   | 2.14M 	          | Strong market participation
+
 3-Avg Daily Return | 83.50%	          | High short-term return potential
+
 4-Avg Volatility   | 149.50%	      | Indicates higher price fluctuations
 
 # Dashboard Insights
 #  1-Closing Price Trend
 -Closing price increased from approximately ₹420 in 2023 to ₹1,250+ in 2025
+
 -Shows a clear long-term upward trend
+
 -Minor pullbacks after peaks indicate healthy price consolidation
 
 # 2-Volume vs Price Analysis
 -High trading volumes coincide with price breakout periods
+
 -Volume spikes indicate strong investor and institutional interest
+
 -Confirms good liquidity in the stock
 
 # 3-Monthly Average Closing Price
 -Consistent month-on-month growth observed
+
 -2025 shows the strongest monthly average prices
+
 -Seasonal strength visible during mid-year months
 
 # 4-Monthly Trading Volume
 -Highest trading volume observed around Month 5(Year 2023)
+
 -Volume remains stable across most months
+
 -Sudden spikes suggest event-driven market activity
 
 # 5-Monthly Return vs Volatility
 -High volatility months show mixed returns
+
 -Some high-risk months still deliver positive returns
+
 -Useful for risk–reward analysis
 
 # 6-Risk & Volatility Analysis
 🔴 High Volatility Days
+
 -Total High Volatility Days: 745
+
 -Identified using volatility threshold filters
 
 # 7-Volatility Over Time
 -Volatility was higher during 2023–2024
+
 -Gradual stabilization observed in 2025
+
 -Helps identify relatively safer trading periods
 
 # 8-🚨 High Risk Trading Days (Examples)
 -Date       |	Open    |	Close   |	Intraday Volatility |	Daily Return
+
 -2023-04-05 |	₹428.00 |	₹419.15 |	4.39                |	-3.13%
 
 # Business Insights
 1-Max Healthcare shows strong long-term growth potential
+
 2-High volatility introduces short-term trading risk
+
 3-Trading volume confirms active market participation
+
 4-Volatility filters help identify risk-heavy trading days
 
 # Skills Demonstrated
 1-Data Cleaning & Validation
+
 2-SQL Queries & Analytical Views
+
 3-Financial & Stock Market Analysis
+
 4-Power BI Dashboard Development
+
 5-KPI Design & Data Storytelling
+
 6-Risk & Volatility Analysis
 
 
 # Author
 Ankit Aswal
+
 Entry-Level Data Analyst
+
 Skills:
+
 SQL | Power BI | Excel | PostgreSQL
 
 
