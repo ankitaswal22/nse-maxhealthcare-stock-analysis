@@ -149,9 +149,11 @@ The objective of this project is to analyze historical stock price behavior iden
 ├── Excel/
 
 │   └── max_cleaned2.csv
+
 ├── powerbi/
 
 │   └── MaxHealthcare_Stock_Analysis.pbix
+
 ├── screenshots/
 
 │   └── market_overview.png
@@ -159,6 +161,7 @@ The objective of this project is to analyze historical stock price behavior iden
 |   └── monthly_performance_analysis.png
 
 |    └── risk_and_volatility_analysis.png
+
 ├── sql/
 
 │    └──analysis_queries.sql
