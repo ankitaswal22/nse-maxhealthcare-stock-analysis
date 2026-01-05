@@ -8,32 +8,32 @@ The objective of this project is to analyze historical stock price behavior iden
 nse-maxhealthcare-stock-analysis/
 
 ├── excel/
-   
-    └── MAX_CLEANED2.csv
+
+-[MAX_CLEANED2.csv](excel/MAX_CLEANED2.csv)
    
 ├── powerbi/
 
-    └── MaxHealthcare_Dashboard.pbix
+-[MaxHealthcare_Dashboard.pbix](powerbi/MaxHealthCare_Dashboard.pbix)
 
 ├── sql/
 
-    ├── data_cleaning.sql
+-[data_cleaning.sql](sql/data_cleaning.sql)
 
 -[analysis_queries.sql](sql/analysis_queries.sql)
  
-    ├── features_engineering.sql
+-[features_engineering.sql](sql/features_engineering.sql)
  
-    ├── tablecreation.sql
-   
-    └── powerbi_views.sql
+-[tablecreation.sql](sql/tablecreation.sql)
+ 
+-[powerbi_views](sql/powerbi_views.sql)
 
 ├── screenshots/
 
-    ├── Market_overview.png
-    
-    ├── Monthly_performance_analysis.png
-    
-    └── Risk_and_Volatility_Analysis.png
+-[Market_overview.png](screenshots/Market_overview.png)
+
+-[Monthly_performance_analysis.png](screenshots/Monthly_performance_analysis.png)
+
+-[Risk_and_Volatility_Analysis.png](screenshots/Risk_and_Volatility_Analysis.png)
     
 ├── README.md
 
