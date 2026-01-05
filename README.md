@@ -174,7 +174,7 @@ The objective of this project is to analyze historical stock price behavior iden
 
     └──tablecreation.sql
 
-├── README.md
+└── README.md
 
 
 
