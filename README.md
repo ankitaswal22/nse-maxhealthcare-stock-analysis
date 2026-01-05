@@ -25,7 +25,7 @@ nse-maxhealthcare-stock-analysis/
  
 -[tablecreation.sql](sql/tablecreation.sql)
  
--[powerbi_views](sql/powerbi_views.sql)
+-[powerbi_view](sql/powerbi_view.sql)
 
 ├── screenshots/
 
